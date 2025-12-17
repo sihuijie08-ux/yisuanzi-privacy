@@ -1,2 +1,33 @@
-# yisuanzi-privacy
-隐私政策
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>隐私政策 - [yisuanzi0805]</title>
+</head>
+<body style="font-family: sans-serif; line-height: 1.6; max-width: 800px; margin: 40px auto; padding: 0 20px;">
+  <h1>隐私政策</h1>
+  <p><strong>生效日期：</strong>2025年12月17日</p>
+
+  <p>本应用由个人开发者开发并维护。感谢您使用<strong>[易算子]</strong>（以下简称“本应用”）。</p>
+
+  <h2>1. 数据收集声明</h2>
+  <p><strong>本应用不收集、不存储、不传输任何用户的个人信息或设备数据。</strong></p>
+  <p>所有功能均在设备本地运行，无需联网，不会访问您的位置、通讯录、相册、麦克风、摄像头等敏感权限。</p>
+
+  <h2>2. 第三方 SDK</h2>
+  <p>本应用未集成任何第三方 SDK（包括但不限于华为 HMS Core、广告、分析、推送等服务），不会向任何第三方共享或披露您的信息。</p>
+
+  <h2>3. 隐私保护承诺</h2>
+  <p>作为个人开发者，我承诺尊重并保护您的隐私。由于本应用完全离线运行且不收集任何数据，因此不存在数据泄露风险。</p>
+
+  <h2>4. 联系方式</h2>
+  <p>如您对本隐私政策有任何疑问，或希望了解更多信息，请通过以下方式联系开发者：</p>
+  <p><strong>邮箱：</strong>[192663217@qq.com]</p>
+
+
+  <p style="margin-top: 40px; color: #666; font-size: 0.9em;">
+    本隐私政策最终解释权归本应用个人开发者所有。
+  </p>
+</body>
+</html>
